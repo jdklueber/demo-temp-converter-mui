@@ -7,6 +7,7 @@ After cloning, run `npm install` in the directory to get dependencies.  Then run
 
 ```
 npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
 ```
 
 
